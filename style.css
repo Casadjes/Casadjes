@@ -1,0 +1,292 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "lato";
+}
+
+header {
+  width: 100%;
+  background-color: #0a0a23;
+  z-index: 1;
+  position: sticky;
+}
+
+.navegation {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: 0 auto;
+
+  height: 40px;
+  max-width: 1679px;
+  position: relative;
+}
+
+.centro {
+  position: absolute;
+  left: 710px;
+}
+
+/* alineacion de barra de busqueda */
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+
+/* barra de busqueda */
+
+.busqueda {
+  margin-left: 17px;
+  padding: 3px;
+  border: none;
+  background-color: #3b3b4f;
+  outline: none;
+  font-size: 18px;
+  color: white;
+  transition: background-color 0.5s ease;
+  width: 510px;
+
+  /* icono */
+  background: #3b3b4f url(lupa.png);
+  background-repeat: no-repeat;
+  background-size: 30px;
+}
+
+.busqueda:hover {
+  background-color: #44444d;
+  outline: #9595f3 1px solid;
+}
+
+/* texto central */
+.logo-item {
+  font-size: 28px;
+
+}
+
+.logo-item a {
+  text-decoration: none;
+  color: white;
+  font-family: "Inconsolata";
+  line-height: 40px;
+}
+
+/*  contenedor de menu y avatar */
+
+.btn {
+  display: flex;
+  align-items: center;
+}
+
+/* menu */
+
+.menu {
+  background: transparent;
+  color: white;
+  border: white 1px solid;
+  height: 32px;
+  padding: 0 15px;
+  font-size: 17px;
+  margin-right: 10px;
+  cursor: pointer;
+  transition: background-color .3s ease;
+}
+
+.menu:hover {
+  background-color: #3b3b4f;
+}
+
+/* avatar */
+
+.menu-next {
+  display: flex;
+  justify-content: center;
+  height: 32px;
+  width: 32px;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+/* imagen de avatar */
+
+.menu-next img {
+  width: 32px;
+  height: 32px;
+}
+
+/* section 1 */
+
+.section-1 {
+  background-color: #1b1b32;
+  padding: 40px 100px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* container tlt */
+.container-title {
+  margin: 0 700px;
+  width: 38%;
+}
+
+/* titulo section 1 */
+
+.title h1 {
+  display: flex;
+  justify-content: center;
+  color: white;
+  font-family: sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+/* dicho */
+
+.dicho {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  font-family: monospace;
+  font-size: 28px;
+}
+
+.dicho span::before {
+  content: "<<";
+  font-size: 17px;
+}
+
+.dicho span::after {
+  content: ">>";
+  font-size: 17px;
+}
+
+.dicho span {
+  text-align: center;
+  letter-spacing: 1px;
+  margin-bottom: 6px;
+}
+
+.dicho cite {
+  font-size: 18px;
+  font-weight: 100;
+  margin-bottom: 40px;
+}
+
+/* parte de las cajas */
+.box-container {
+  width: 51%;
+  display: flex;
+  flex-direction: column;
+}
+
+.sub-box {
+  display: flex;
+  align-items: center;
+}
+
+.box-container a {
+  text-decoration: none;
+}
+
+.box {
+  border: 3px solid white;
+  height: 80px;
+  margin-bottom: 10px;
+  transition: background-color .5s ease;
+  background-color: #3b3b4f;
+  color: #ffffff;
+  font-size: 23px;
+  width: 750px;
+}
+
+.box:hover {
+  background-color: #ffffff;
+  color: #3b3b4f;
+}
+
+/* caja 1 */
+
+
+.box-1 {
+  display: flex;
+  align-items: center;
+}
+
+.box-1 img {
+  width: 60px;
+  height: 60px;
+  margin: 0 15px;
+}
+
+
+.box-2 {
+  display: flex;
+  align-items: center;
+}
+
+.box-2 img {
+  width: 60px;
+  height: 60px;
+  margin: 0 15px;
+}
+
+.box-2 span {
+  margin-right: 10px;
+}
+
+.box-3 {
+  display: flex;
+  align-items: center;
+}
+
+.box-3 img {
+  width: 60px;
+  height: 60px;
+  margin: 0 15px;
+}
+
+.box-3 span {
+  margin-right: 10px;
+}
+
+@media (max-width: 942px) {
+  .busqueda {
+    display: none;
+  }
+
+  .centro {
+    left: 20px;
+  }
+
+  .centro a {
+    font-size: 23px;
+  }
+
+  .title h1 {
+    font-size: 23px;
+    font-weight: 200;
+    text-align: center;
+  }
+
+  .container-title {
+    margin: 0 50px;
+  }
+
+  .dicho span {
+    font-size: 15px;
+  }
+
+  .dicho cite {
+    font-size: 10px;
+  }
+}
