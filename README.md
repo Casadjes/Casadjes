@@ -1,3 +1,5 @@
+![image](https://github.com/Casadjes/Casadjes/assets/115717042/9425fa23-d076-4f85-b9d2-e0817853291a)
+
 <h1 align="center">Hi 👋, I'm Jesus Casado</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
 
