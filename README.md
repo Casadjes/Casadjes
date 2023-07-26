@@ -34,3 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=casadjes&show_icons=true&locale=en" alt="casadjes" /></p>
 
+![image](https://github.com/Casadjes/Casadjes/assets/115717042/91075f91-3600-4291-b720-dc55ae6c96c4)
