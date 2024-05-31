@@ -28,9 +28,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=Casadjes) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Casadjes_)
 
-
-<!--START_SECTION:waka-->
-```text
-
-```
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@48140936-5315-4f2b-bd9c-d40b68185364/5d506821-9099-4ccc-be9c-f58844ef6225.svg"></embed></figure>
