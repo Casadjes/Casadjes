@@ -31,16 +31,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Javascript  1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
-Html        1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   30.65 % 
-Css         24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Astro       21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Typescript  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
+
 ```
 <!--END_SECTION:waka-->
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Casadjes&icon=0&color=0)](https://visitcount.itsvg.in)
-
