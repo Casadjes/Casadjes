@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Casadjes) 
 
 </div>
-  <img align="right" alt="img" src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764519_1280.jpg" width="50%" height="auto" />
+  <img align="right" alt="img" src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764519_1280.jpg" width="40%" height="auto" />
  
 
 
