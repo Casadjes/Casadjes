@@ -5,16 +5,17 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:esmilcasado901@gmail.com)
 
 <div width="50%" height="auto">
-#### 🌱 Things I am currently working on:
-  - get better at React, Astro and Typescript.
+<h4>🌱 Things I am currently working on:</h4> 
+  - get better at React, Astro and Typescript.<br/>
   - learning design patterns to have a more organized and scalable code.
+<h4>📊 GitHub Stats :</h4> 
+  
+![](https://github-readme-stats.vercel.app/api?username=Casadjes) 
+
 </div>
   <img align="right" alt="img" src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764519_1280.jpg" width="50%" height="auto" />
  
 
-#### 📊 GitHub Stats :
-
-![](https://github-readme-stats.vercel.app/api?username=Casadjes) 
 
 
 ### 💻 Tech Stack :
