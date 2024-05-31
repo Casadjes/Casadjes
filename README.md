@@ -1,6 +1,7 @@
 <img align="right" alt="img" src="https://cdn.pixabay.com/photo/2021/04/04/07/49/laptop-svg-6149345_960_720.png" width="50%" height="auto" />
 <h3>Hi there 👋 </h3> 
 <h3>This is Jesus Casado!</h3> 
+<p>I'm a passionate Web Developer from Dominican Republic and I would be happy to work alongside you 👍</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-e-casado-67a725279/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:esmilcasado901@gmail.com)
