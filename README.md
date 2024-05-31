@@ -1,16 +1,18 @@
-### Hi there 👋 
-### This is Jesus Casado!
+<img align="right" alt="img" src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764519_1280.jpg" width="50%" height="auto" />
+<h3>Hi there 👋 </h3> 
+<h3>This is Jesus Casado!</h3> 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-e-casado-67a725279/) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:esmilcasado901@gmail.com)
 
-<img align="right" alt="img" src="https://cdn.pixabay.com/photo/2024/05/15/20/57/developer-8764519_1280.jpg" width="50%" height="auto" />
 
-<div width="50%" height="auto">
+<div>
 <h4>🌱 Things I am currently working on:</h4> 
-  - Get better at React, Astro and Typescript.<br/>
-  - Learning design patterns to have a more organized and scalable code.<br/>
-  - Communication skills.
+  <ul>
+    <li>Get better at React, Astro and Typescript.</li>
+    <li>Learning design patterns to have a more organized and scalable code.</li>
+    <li>Communication skills.</li>
+  </ul>
 
 <h4>💻 Tech Stack :</h4> 
 
