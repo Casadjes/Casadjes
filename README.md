@@ -10,7 +10,7 @@
 <h4>🌱 Things I am currently working on:</h4> 
   <ul>
     <li>Get better at React, Astro and Typescript.</li>
-    <li>Learning architectural patterns to have a more organized, maintainable, and scalable codebase, which can adapt efficiently to changing requirements.</li>
+    <li>Learning architectural patterns to have a more organized, maintainable, and scalable codebase, which can adapt <br/> efficiently to changing requirements.</li>
     <li>Communication skills.</li>
   </ul>
 
