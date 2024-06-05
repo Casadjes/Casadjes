@@ -84,6 +84,12 @@
 </tr>
 
   </table>
+  <h3>🕖 Recent Projects:</h3>
+    <ul>
+      <li>Cash Bank - landing Page: <a href="https://cash-bank.pages.dev/">Demo</a></li>
+    </ul>
+  
+  
   <h3>📊 GitHub Stats:</h3>
 
   ![](https://github-readme-stats.vercel.app/api?username=Casadjes) 
