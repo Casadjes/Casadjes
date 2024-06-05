@@ -84,7 +84,7 @@
 </tr>
 
   </table>
-  <h3>🕖 Recent Projects:</h3>
+  <h3>🕖 Latest Projects:</h3>
     <ul>
       <li>Cash Bank - landing Page: <a href="https://cash-bank.pages.dev/">Demo</a></li>
     </ul>
