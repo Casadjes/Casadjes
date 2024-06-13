@@ -87,6 +87,7 @@
   <h3>🕖 Latest Projects:</h3>
     <ul>
       <li>Cash Bank - landing Page: <a href="https://cash-bank.pages.dev/">Demo</a></li>
+      <li>Tesla - landing Page: <a href="https://tesla-landing-rust.vercel.app/">Demo</a></li>
     </ul>
   
   
