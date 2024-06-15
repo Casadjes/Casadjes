@@ -1,4 +1,4 @@
-<img align="right" alt="img" src="https://cdn.pixabay.com/photo/2021/04/04/07/49/laptop-svg-6149345_960_720.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/Casadjes/Casadjes/assets/115717042/57667c6d-ff55-4cf4-a773-975be6204ef8" width="50%" height="auto" />
 
 <h3>Hi there 👋 </h3>
 <h3>This is Jesus Casado!</h3>
