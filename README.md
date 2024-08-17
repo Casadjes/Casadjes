@@ -89,7 +89,8 @@
     <ul>
       <li>Cash Bank - landing Page: <a href="https://cash-bank.pages.dev/">Demo</a></li>
       <li>Tesla - landing Page: <a href="https://tesla-landing-rust.vercel.app/">Demo</a></li>
-      <li>Pagia de venta y modificacion de vehiculos: <a href="https://vcompany.pages.dev/">Demo</a></li>
+      <li>Pagina de venta y modificacion de vehiculos: <a href="https://vcompany.pages.dev/">Demo</a></li>
+      <li>Pagina de renta de vehiculos (en construccion): <a href="https://car-rent-alpha-gray.vercel.app/">Demo</a></li>
     </ul>
   
   
