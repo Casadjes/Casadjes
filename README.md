@@ -87,6 +87,7 @@
 
   <h3>🕖 Latest Projects:</h3>
     <ul>
+      <li>111 Days Challenge - Personal Blog <a href="https://111days-blog.vercel.app">Demo</a>/</li>
       <li>Cash Bank - landing Page: <a href="https://cash-bank.pages.dev/">Demo</a></li>
       <li>Tesla - landing Page: <a href="https://tesla-landing-rust.vercel.app/">Demo</a></li>
       <li>Pagina de venta y modificacion de vehiculos: <a href="https://vcompany.pages.dev/">Demo</a></li>
